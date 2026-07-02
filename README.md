@@ -12,11 +12,11 @@
 
    
 ## 🌐 Socials:
-[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ae1c8003-3870-40bc-b671-b0c96e993b19" />
-](https://facebook.com/profile.php?id=100004502056261) [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c56d79dc-0795-4700-b5de-d287806d201b" text-decoration="none"/>
-](https://instagram.com/mr_hun_k_) [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/da26097e-5d0d-4b1e-afbe-a06632dd5f89" />
-](https://linkedin.com/in/mayankdhiman443/) [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7a3bd0ba-70c0-4204-8003-cc1a1271e348" />
-](mailto:mayankdhiman443@gmail.com) 
+[<a><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ae1c8003-3870-40bc-b671-b0c96e993b19" /></a>
+](https://facebook.com/profile.php?id=100004502056261)<a>[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c56d79dc-0795-4700-b5de-d287806d201b"/></a>
+](https://instagram.com/mr_hun_k_) [<a><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/da26097e-5d0d-4b1e-afbe-a06632dd5f89" /></a>
+](https://linkedin.com/in/mayankdhiman443/) [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7a3bd0ba-70c0-4204-8003-cc1a1271e348" text-decoration="none"/>
+](mailto:mayankdhiman443@gmail.com)</a>
 
 <div alignitem ="left">
 <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI4MDYzNDIsIm5iZiI6MTc4MjgwNjA0MiwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjMwVDA3NTQwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyYzRlOWMxNjE4MjJmODQ1MGNmN2E5NmE4NGVhNmQwZWMzOWNlMjhiNWU4NDY2ZGJlOWU1YzFiZmE5YjM2MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.xzw9D-U556SafyC1BCj464iteAp_zfX_g3n80nhTmX8"width="200px"/>
