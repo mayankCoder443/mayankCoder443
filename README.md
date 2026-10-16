@@ -3,7 +3,7 @@
 
 
 - 🔭 **I’m currently working on:** "I'm currently working on: Building automated reporting solutions to help businesses save time and improve data accuracy."
-- 🌱 **I’m currently learning:** Power BI
+- 🌱 **I’m currently learning:** SQL
 - -- 📫 **How to reach me:** Mayankdhiman443@gmail.com
 - 😄 **Pronouns:** Bunty
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
